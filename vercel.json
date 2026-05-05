@@ -1,6 +1,8 @@
 {
-  "version": 2,
-  "routes": [
-    { "src": "^(?!/assets/).*", "dest": "/index.html" }
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
   ]
 }
