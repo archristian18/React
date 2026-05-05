@@ -25,3 +25,5 @@ This project is ready for Vercel as a static Vite app.
 4. Use `dist` as the output directory.
 
 The repo includes a `vercel.json` file that pins those settings and rewrites all routes to `index.html`, which is useful for client-side navigation.
+
+Link: https://project-8uwm4.vercel.app/
